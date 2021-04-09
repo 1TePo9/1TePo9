@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1TePo9
 - 👀 I’m interested in c#, Front-End Developing, php.
-- 🌱 I’m currently learning Basically all new things that comes to me.
+- 🌱 I’m currently learning Basically all new things that comes to me(Xamarin,Laravel,Ruby,jquery).
 - 💞️ I’m looking to collaborate on simple to hard projects to build my experience
 - 📫 How to reach me : via email bobblematiibobble@gmail.com or instagram : @tepo_music
 
